@@ -1,0 +1,52 @@
+{
+  "placeholderImages": [
+    {
+      "id": "min1",
+      "description": "A fierce dragon knight armed with a legendary sword.",
+      "imageUrl": "https://picsum.photos/seed/min1/600/400",
+      "imageHint": "fantasy knight"
+    },
+    {
+      "id": "min2",
+      "description": "A sharp-eyed elven archer from the mystical forests.",
+      "imageUrl": "https://picsum.photos/seed/min2/600/400",
+      "imageHint": "fantasy archer"
+    },
+    {
+      "id": "min3",
+      "description": "A sturdy dwarven warrior with an unbreakable shield.",
+      "imageUrl": "https://picsum.photos/seed/min3/600/400",
+      "imageHint": "fantasy dwarf"
+    },
+    {
+      "id": "min4",
+      "description": "A raging orc berserker ready for battle.",
+      "imageUrl": "https://picsum.photos/seed/min4/600/400",
+      "imageHint": "fantasy orc"
+    },
+    {
+      "id": "min5",
+      "description": "A powerful sorceress wielding arcane energies.",
+      "imageUrl": "https://picsum.photos/seed/min5/600/400",
+      "imageHint": "fantasy sorceress"
+    },
+    {
+      "id": "min6",
+      "description": "A sneaky goblin scout, perfect for ambushes.",
+      "imageUrl": "https://picsum.photos/seed/min6/600/400",
+      "imageHint": "fantasy goblin"
+    },
+    {
+      "id": "min7",
+      "description": "A righteous paladin, defender of the innocent.",
+      "imageUrl": "https://picsum.photos/seed/min7/600/400",
+      "imageHint": "fantasy paladin"
+    },
+    {
+      "id": "min8",
+      "description": "A terrifying lich commanding legions of the dead.",
+      "imageUrl": "https://picsum.photos/seed/min8/600/400",
+      "imageHint": "fantasy lich"
+    }
+  ]
+}
